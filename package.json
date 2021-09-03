@@ -1,0 +1,27 @@
+{
+  "name": "gcp_cicd",
+  "version": "1.0.0",
+  "description": "CI/CD on Google Cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://YasirSaad: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@github.com/YasirSaad/GCP_CI-CD.git"
+  },
+  "keywords": [
+    "DevOps",
+    "CI/CD"
+  ],
+  "author": "Yasir Alibrahem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasirSaad/GCP_CI-CD/issues"
+  },
+  "homepage": "https://github.com/YasirSaad/GCP_CI-CD#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
